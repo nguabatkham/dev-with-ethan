@@ -1,18 +1,18 @@
 # Website details
-name: Dev With Ethan
-description: Blog Lập trình cùng Ethan
+name: Ngựa bất kham
+description: Góc nhỏ của những vui buồn về công việc và cuộc sống
 url: http://dev.ethanify.me
 author:
-  name: Ethan605
-  fullname: Thành Nguyễn
-  email: thanhnx.605@gmail.com
-  github: ethan605
-  twitter: '@ethan605'
-  linkedin: ethan605
+  name: ThanhLaDev
+  fullname: Thành Lã
+  email: thanhladev@gmail.com
+  github: thanhladev
+  twitter: '@thanhladev'
+  linkedin: thanhladev
   bio: Passionate about creating awesome products that help plenty of people improving their lives.
   email_md5: 48698fe64e24d81467ccc86d3083052d
 twitter:
-  username: ethan605
+  username: thanhladev
 facebook:
   app_id: 1783427568545702
   admins: 1119670477
